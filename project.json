@@ -1,5 +1,5 @@
 {
-  "name": "IBAN_Checker",
+  "name": "CheckIBAN",
   "description": "IBAN Checker",
   "main": "NewActivity.xaml",
   "dependencies": {
